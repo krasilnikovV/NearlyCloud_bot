@@ -9,5 +9,6 @@ namespace NearlyCloud_bot.Utils
          public string TelegramApiKey { get; set; }
          public string ProxyLogin { get; set; }
          public string ProxyPassword { get; set; }
+         public string SqlPasssword { get; set; }
     }
 }
